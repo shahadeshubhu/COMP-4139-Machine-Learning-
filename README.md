@@ -1,6 +1,4 @@
-# README.md — Machine Learning Coursework and Labs (COMP4139)
-
-## Module Overview
+# Machine Learning Coursework and Labs (COMP4139)
 
 This repository contains coursework, lab notebooks, and reports from the COMP4139 / COMP3009 module titled Machine Learning at the University of Nottingham.
 
@@ -31,7 +29,14 @@ The lab notebooks are hands-on exercises covering the end-to-end ML pipeline usi
 
 Key libraries used: scikit-learn, pandas, matplotlib, tensorflow, numpy.
 
-## Assignment: Predicting Breast Cancer Outcomes
+### Assignment 1: Concrete Compressive Strength Prediction
+
+Files: 
+- COMP4139_Assignment1.ipynb
+
+This notebook applies multiple regression models (Linear Regression, SVR, Decision Tree, and MLP) to predict the compressive strength of concrete based on its ingredient proportions. The dataset is from the UCI Machine Learning Repository. Models are evaluated using 5-fold cross-validation and Mean Squared Error. The notebook demonstrates model comparison for real-world tabular regression tasks.
+
+## Assignment 2: Predicting Breast Cancer Outcomes
 
 Files:
 - ML_REPORT.pdf  
